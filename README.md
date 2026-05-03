@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Demo
+## 🚀 Demo - https://pdfchatter-9pfpamhkownejchtzaueoc.streamlit.app/
 
 Upload any PDF → Ask questions → Get instant answers with source pages cited.
 
